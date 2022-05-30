@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">THEATRES</string>
+    <string name="add_mag">Добавить театр</string>
+    <string name="add_product">Добавить представление</string>
+    <string name="start">Start</string>
+    <string name="product">Найти представление</string>
+    <string name="shop">Найти театр</string>
+
+</resources>
